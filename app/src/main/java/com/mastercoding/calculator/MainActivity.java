@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 first = Integer.parseInt(edFirst.getText().toString());
                 sec = Integer.parseInt(edSecond.getText().toString());
 
-                ans = first + sec;
+                ans = first - sec;
 
                 txt.setText(""+ans);
             }
@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
                 first = Integer.parseInt(edFirst.getText().toString());
                 sec = Integer.parseInt(edSecond.getText().toString());
 
-                ans = first + sec;
+                ans = first * sec;
 
                 txt.setText(""+ans);
             }

@@ -112,7 +112,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="3dp"
         android:background="#000000"
-        android:text="Clear"
+        android:text="Exit"
         android:textColor="#FFDD00"
         android:textStyle="bold" />
 </LinearLayout>

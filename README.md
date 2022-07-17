@@ -1,4 +1,6 @@
-![calculator](https://user-images.githubusercontent.com/106364936/179355286-b03598b5-9b97-4c85-9c2f-84604d275007.jpeg)
-![calculator](https://user-images.githubusercontent.com/106364936/179355233-9e9232ab-7583-4409-9f0d-161f67dd68d8.png)
+![Calculator image](https://user-images.githubusercontent.com/106364936/179356994-16938b3a-de7a-48c7-8de4-5ecc9ecce270.jpeg)
+![calculator](https://user-images.githubusercontent.com/106364936/179357000-50a20e47-4253-4cd8-96a4-3534a352822a.png)
+
+
 # Calculator
 Calculator - My first App

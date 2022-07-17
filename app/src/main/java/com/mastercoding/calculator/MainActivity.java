@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         add.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                int first , sec , ans;
+                double first , sec , ans;
 
                 first = Integer.parseInt(edFirst.getText().toString());
                 sec = Integer.parseInt(edSecond.getText().toString());
@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
        sub.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                int first , sec , ans;
+                double first , sec , ans;
 
                 first = Integer.parseInt(edFirst.getText().toString());
                 sec = Integer.parseInt(edSecond.getText().toString());
@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
        mul.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                int first , sec , ans;
+                double first , sec , ans;
 
                 first = Integer.parseInt(edFirst.getText().toString());
                 sec = Integer.parseInt(edSecond.getText().toString());
@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         div.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                int first , sec , ans;
+                double first , sec , ans;
 
                 first = Integer.parseInt(edFirst.getText().toString());
                 sec = Integer.parseInt(edSecond.getText().toString());
@@ -88,6 +88,8 @@ public class MainActivity extends AppCompatActivity {
         clear.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+
                 finish();
             }
         });

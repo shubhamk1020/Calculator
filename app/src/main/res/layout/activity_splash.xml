@@ -24,7 +24,7 @@
         android:layout_centerInParent="true"
         android:layout_marginBottom="15dp"
         android:text="Calculator"
-        android:textColor="#C079FF"
+        android:textColor="#6E4E3D"
         android:textSize="28sp"
         android:textStyle="bold" />
 </RelativeLayout>
